@@ -1,0 +1,21 @@
+{
+  "blogInfo": {
+    "title": "FossMask Blog",
+    "description": "Github ile sunulup, JSON ile veri eklenir.",
+    "baseUrl": "https://fossmask.github.io/",
+    "language": "tr-tr"
+  },
+  "posts": [
+    {
+      "id": "post1",
+      "author": {
+        "name": "FossMask",
+        "email": "null",
+        "initials": "AÖ"
+      },
+      "date": "2025-04-04T23:10:00+03:0",
+      "content": "Yeni dünya!",
+      "tags": ["genel"]
+    },
+  ]
+}
